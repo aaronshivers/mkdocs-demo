@@ -11,6 +11,7 @@ theme:
     icon: 'cloud'
   feature:
     tabs: true
+  favicon: 'images/favicon.png'
 nav:
   - Home: index.md
   - About: about.md
