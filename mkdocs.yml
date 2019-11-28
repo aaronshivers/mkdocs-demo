@@ -19,5 +19,5 @@ nav:
   - Image: image.md
 markdown_extensions:
   - admonition
-  - codehilite
-  - linenums
+  - codehilite:
+      linenums: true
