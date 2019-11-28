@@ -1,0 +1,16 @@
+site_name: My Docs
+theme:
+  name: 'material'
+  palette:
+    primary: 'cyan'
+    accent: 'amber'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  logo:
+    icon: 'cloud'
+  feature:
+    tabs: true
+nav:
+  - Home: index.md
+  - About: about.md
