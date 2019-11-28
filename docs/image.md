@@ -1,3 +1,3 @@
 # Image
 
-![Screenshot](assets/images/favicon.png)
+![Screenshot](images/favicon.png)
