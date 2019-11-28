@@ -15,4 +15,5 @@ nav:
   - Home: index.md
   - About: about.md
   - Code: code.md
+  - Image: image.md
 
