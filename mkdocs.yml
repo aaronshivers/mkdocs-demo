@@ -19,3 +19,4 @@ nav:
   - Image: image.md
 markdown_extensions:
   - admonition
+  - codehilite
