@@ -20,4 +20,4 @@ nav:
 markdown_extensions:
   - admonition
   - codehilite
-  - linenumbs
+  - linenums
